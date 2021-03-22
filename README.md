@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hojunjeong19
+- 👀 I’m interested in Android, Flutter, AWS
+- 🌱 I’m currently learning Flutter, AWS
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me codelog1114@gmail.com
