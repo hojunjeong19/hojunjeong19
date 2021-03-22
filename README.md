@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hojunjeong19
-- 👀 I’m interested in Android, Flutter, AWS
-- 🌱 I’m currently learning Flutter, AWS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Android
+- 🌱 I’m currently learning Android
+- 💞️ I’m looking to collaborate on LookPin
 - 📫 How to reach me codelog1114@gmail.com
